@@ -2,5 +2,5 @@
 для запуска, необходимо установить Node.js
 в Node.js command prompt набрать команды:
 #npm cd <path>/forTesting
-#npm init
+#npm install
 #npm run dev
